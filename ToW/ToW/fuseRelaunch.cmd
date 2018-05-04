@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "simprims_ver" -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "U:/win/ELEC3500/ToW/ToW/tow_tb_isim_par.exe" -prj "U:/win/ELEC3500/ToW/ToW/tow_tb_par.prj" "work.tow_tb" "work.glbl" 
