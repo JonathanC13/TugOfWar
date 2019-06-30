@@ -10,7 +10,7 @@ The project was more directed and structured.
 
 ## End Remark
 
-    The project went very well, thank you to my project and lab partner Anthony Nauth.
-  
-    Sincerly,
-      Jonathan
+The project went very well, thank you to my project and lab partner Anthony Nauth for a great course.
+
+Sincerely,
+  Jonathan
